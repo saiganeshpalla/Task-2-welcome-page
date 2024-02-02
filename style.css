@@ -1,0 +1,11 @@
+.heading{
+    color: green;
+    font-style: italic;
+}
+.myimage{
+    border-radius: 30px;
+    background-image: -moz-element(green);
+}
+button{
+    color: green;
+}
